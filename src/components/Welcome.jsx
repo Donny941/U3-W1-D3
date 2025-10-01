@@ -15,7 +15,7 @@ function Welcome() {
             every day helps us grow and improve.
           </p>
           <hr />
-          <p className="mb-0">What are you waiting for? Buy some Cullture!</p>
+          <p className="mb-0">What are you waiting for? Buy some Culture!</p>
         </Alert>
       </div>
     </div>
