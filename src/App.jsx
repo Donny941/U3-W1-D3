@@ -1,5 +1,6 @@
 import "./App.css";
-import AllTheBooks from "./components/AllTheBooks";
+import BookList from "./components/BookList";
+
 import MyFooter from "./components/MyFooter";
 import NewNav from "./components/NewNav";
 import Welcome from "./components/Welcome";
@@ -9,7 +10,7 @@ function App() {
     <>
       <NewNav />
       <Welcome />
-      <AllTheBooks />
+      <BookList />
       <MyFooter />
     </>
   );

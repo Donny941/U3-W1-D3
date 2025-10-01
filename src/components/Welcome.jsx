@@ -6,9 +6,9 @@ function Welcome() {
     <div className="bg-custom">
       <div className="container d-flex align-content-center py-4">
         <div>
-          <h1 className="py-3">Discover Our Amazing Books!</h1>
+          <h1 className="py-3 focus-in-contract">Discover Our Amazing Books!</h1>
         </div>
-        <Alert variant="info m-0">
+        <Alert className="slide-in-right" variant="info m-0">
           <Alert.Heading>Hey, nice to see you again!</Alert.Heading>
           <p>
             Welcome to our amazing book store, a place where fantasy, creativity, and literature converge to help you become a better person. Remember, studying

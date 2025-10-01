@@ -1048,5 +1048,12 @@
     "img": "https://images-na.ssl-images-amazon.com/images/I/71VsfUWuQqL.jpg",
     "price": 7.68,
     "category": "fantasy"
+  },
+  {
+    "asin": "B09XT6J3WX",
+    "title": "Wohpe",
+    "img": "https://www.ibs.it/images/9791280845115_0_536_0_75.jpg",
+    "price": 18.0,
+    "category": "fantasy"
   }
 ]
