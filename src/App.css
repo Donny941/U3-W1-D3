@@ -1,0 +1,17 @@
+.bg-custom {
+  background: linear-gradient(to bottom, #0f2027, #203a43, #2c536400);
+}
+.nav-bg {
+  /* background: linear-gradient(to bottom, #141e30, #243b55); */
+  background: linear-gradient(to bottom, #16222a, #3a6073);
+}
+body {
+  background: linear-gradient(to bottom, #0f2027, #203a43, #2c5364);
+}
+.scale {
+  scale: initial;
+  transition: all 0.3s ease-in-out;
+}
+.scale:hover {
+  scale: 1.05;
+}
